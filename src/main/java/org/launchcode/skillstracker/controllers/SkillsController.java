@@ -19,6 +19,9 @@ public class SkillsController {
                 "<li>VBA</li>" +
                 "<li>Java</li>" +
                 "</ol>" +
+                "<form method = 'get' action = 'form'>" +
+                "<input type='submit' value='form'>" +
+                "</form>" +
                 "</body>" +
                 "</html>";
     }
